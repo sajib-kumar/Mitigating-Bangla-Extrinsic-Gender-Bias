@@ -20,7 +20,7 @@
 
 - 🗂️ **4 benchmark datasets** for Bangla gender bias evaluation (sentiment, toxicity, hate speech, sarcasm)
 - 📖 **573-pair Bangla gendered lexicon** built from grammar books and web sources
-- 🧠 **RandSymKL** — a stochastic debiasing strategy outperforms all baselines across fairness metrics while maintaining strong accuracy
+- 🧠 **RandSymKL** — a stochastic debiasing strategy that outperforms all baselines across fairness metrics while maintaining strong accuracy
 
 ---
 
