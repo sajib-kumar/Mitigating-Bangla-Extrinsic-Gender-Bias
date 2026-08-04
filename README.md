@@ -4,7 +4,7 @@ In this study, we investigate extrinsic gender bias in Bangla pretrained languag
 # Repository Structure
 The repository has three folders.
 
-**Approach** contains the code and results of all 8 approaches we applied to detect and mitigate extrinsic gender bias. In each approach subdirectory, there are two files for each task (sentiment analysis, sarcasm detection, hatespeech detection, and toxicity detection). One contains the implementation, and one contains the obtained results.
+**Approach** contains the code and results of all 8 approaches we applied to detect and mitigate extrinsic gender bias. In each approach subdirectory, there are two files for each task (sentiment analysis, sarcasm detection, hatespeech detection, and toxicity detection). One contains the implementation, and one contains the obtained results. Aditionally it contains two files named average_kldm_ALL_tasks_lambda_1_3_5.ipynb , randomized_kldm_ALL_tasks_lambda_1_3_5.ipynb which we used for experimenting with different values of lambda for our RandSymKL  and its closed baseline (AvgSymKL_MF).
 <br>
 **Data** directory contains the datasets for all the tasks, along with a csv file that contains the gendered terms.
 <br>
